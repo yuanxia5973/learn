@@ -1,2 +1,3 @@
 # learn
-for learn git-hub
+for learn git-hub.hello git-hub
+
